@@ -5,6 +5,14 @@ body {
     height: 100vh;
 }
 
+h1 {
+    font-style: italic;
+}
+
+.li {
+    font-style: italic;
+}
+
 .dropbtn {
     background-color: #e76f51;
     color: wheat;
