@@ -3,6 +3,7 @@
 function dropDown() {
 
     // Henter fra HTML og CSS til JavaScript
+    
     document.getElementById("myDropdown").classList.toggle("show");
 }
 
